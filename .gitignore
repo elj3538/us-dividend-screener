@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated / Cache
+cache/
+dist/
+
+# Local / Personal notes (managed in OneDrive)
+HANDOFF.md
+ANALYSIS*.md
+*.log
+.DS_Store
+Thumbs.db
